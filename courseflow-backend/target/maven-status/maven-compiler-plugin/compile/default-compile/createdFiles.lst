@@ -1,0 +1,14 @@
+com\courseflow\model\Course.class
+com\courseflow\model\Prerequisite.class
+com\courseflow\model\Enrollment.class
+com\courseflow\CourseFlowApplication.class
+com\courseflow\config\WebConfig$1.class
+com\courseflow\repository\EnrollmentRepository.class
+com\courseflow\model\Section.class
+com\courseflow\repository\StudentRepository.class
+com\courseflow\controller\CourseController.class
+com\courseflow\repository\CourseRepository.class
+com\courseflow\repository\SectionRepository.class
+com\courseflow\model\Student.class
+com\courseflow\model\Waitlist.class
+com\courseflow\config\WebConfig.class
