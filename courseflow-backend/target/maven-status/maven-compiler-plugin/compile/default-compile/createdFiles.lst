@@ -1,3 +1,4 @@
+com\courseflow\config\SecurityConfig.class
 com\courseflow\model\Course.class
 com\courseflow\model\Prerequisite.class
 com\courseflow\model\Enrollment.class
